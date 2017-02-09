@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package billsncoins.java;
 import java.util.Scanner;
 /**
@@ -15,7 +11,7 @@ public class BillsncoinsJava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
         double amount;
         int one, five, ten;
         int penny, nickel, dime, quarter;
