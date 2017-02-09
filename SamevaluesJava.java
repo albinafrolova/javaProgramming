@@ -1,4 +1,3 @@
-
 package samevalues.java;
 import java.util.Scanner;
 /**
