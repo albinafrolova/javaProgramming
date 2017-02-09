@@ -27,8 +27,6 @@ public class SamevaluesJava {
         num2 = num2%5;
         
         System.out.println(result1 + " and " + result2);
-       
-        
     }
     
 }
