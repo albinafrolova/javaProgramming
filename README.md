@@ -1,2 +1,7 @@
-# javaProgramming
-My Java source code
+# Java Programming Repository
+--------------------------------
+**Contents**
+- Java projects
+- Documentation
+- Resources
+- HackerRank 
