@@ -6,10 +6,7 @@ import java.util.Scanner;
  * @author albinafrolova
  */
 public class BillsncoinsJava {
-
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         
         double amount;
