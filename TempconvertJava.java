@@ -6,10 +6,7 @@ import java.util.*;
  * @author albinafrolova
  */
 public class TempconvertJava {
-
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
      
     float temperature;
