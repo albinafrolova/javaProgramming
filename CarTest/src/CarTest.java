@@ -1,7 +1,3 @@
-/**
- *
- * @author albinafrolova
- */
 public class CarTest {
     public static void main (String[] args){
         Car c1 = new Car ("Ford", "Taurus", 2007);
