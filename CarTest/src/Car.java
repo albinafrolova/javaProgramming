@@ -1,7 +1,3 @@
-/**
- *
- * @author albinafrolova
- */
 public class Car {
     
        String make;
