@@ -4,6 +4,7 @@
 // A bank account class with methods to deposit to, withdraw from,
 // change the name on, and get a String representation
 // of the account.
+//
 //************************************************************
 import java.util.Random;
   public class Account {
@@ -36,7 +37,6 @@ import java.util.Random;
        double number = generator.nextDouble();       
        this.acctNum= (long) number;
     }
-
     
 //-------------------------------------------------
 // Checks to see if balance is sufficient for withdrawal.
