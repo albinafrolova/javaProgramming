@@ -31,11 +31,10 @@ import java.util.Random;
     }
 
     public Account(String owner) {
+       Random generator = new Random(); 
        balance = 0;
-       name = owner;
-       Random generator = new Random();
-       double number = generator.nextDouble();       
-       this.acctNum= (long) number;
+       name = owner;      
+       this.acctNum = generator.nextLong();
     }
     
 //-------------------------------------------------
