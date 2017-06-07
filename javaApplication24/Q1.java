@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package javaapplication24;
-
 /**
  *
  * @author albinafrolova
@@ -20,5 +19,4 @@ public class Q1 {
         System.out.println("Your grade is = " + grade++);
         System.out.println("Your total is = " + total);
     }
-
 }
