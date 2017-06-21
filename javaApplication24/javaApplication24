@@ -4,16 +4,11 @@
  * and open the template in the editor.
  */
 package javaapplication24;
-
 /**
  *
  * @author albinafrolova
  */
 public class JavaApplication24 {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Q1 s1 = new Q1();
         s1.showData();
